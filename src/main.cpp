@@ -6,6 +6,7 @@
 #include <Adafruit_BMP085.h>
 #include <Adafruit_SPIDevice.h>
 
+//included in github https://github.com/DIGITDUDE/RV-T-Sensor.git
 #define DHTTYPE DHT11
 #define DHTPIN 2
 
